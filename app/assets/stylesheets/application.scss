@@ -10,6 +10,7 @@ body {
    flex-direction: column;
  }
 
+
  main {
    flex: 1 0 auto;
  }
@@ -37,4 +38,8 @@ body {
 
 .btn-form {
   width: 100%;
+}
+
+.card-image {
+  height: 150px;
 }
